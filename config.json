@@ -2026,11 +2026,6 @@
       "price": 175
     },
     {
-      "name": "arachnid",
-      "platform": "roblox",
-      "price": "offer"
-    },
-    {
       "name": "scawy",
       "platform": "roblox",
       "price": 50
@@ -2943,6 +2938,7 @@
   ]
 
 }
+
 
 
 
