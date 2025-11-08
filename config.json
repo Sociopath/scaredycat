@@ -2368,7 +2368,7 @@
     {
       "name": "chupacabra",
       "platform": "telegram",
-      "price": 600
+      "price": 500
     },
     {
       "name": "emperorpalpatine",
@@ -2948,4 +2948,5 @@
   ]
 
 }
+
 
