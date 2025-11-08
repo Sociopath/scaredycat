@@ -1643,7 +1643,7 @@
     {
       "name": "hitmontop",
       "platform": "telegram",
-      "price": 75
+      "price": 100
     },
     {
       "name": "killercroc",
@@ -2358,7 +2358,7 @@
     {
       "name": "lauriestrode",
       "platform": "telegram",
-      "price": 75
+      "price": 50
     },
     {
       "name": "hanagaki",
@@ -2948,3 +2948,4 @@
   ]
 
 }
+
