@@ -1648,7 +1648,7 @@
     {
       "name": "killercroc",
       "platform": "telegram",
-      "price": 50
+      "price": 75
     },
     {
       "name": "requeue",
@@ -2948,5 +2948,6 @@
   ]
 
 }
+
 
 
