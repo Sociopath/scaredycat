@@ -2023,7 +2023,7 @@
     {
       "name": "brunch",
       "platform": "roblox",
-      "price": "offer"
+      "price": 175
     },
     {
       "name": "arachnid",
@@ -2033,7 +2033,7 @@
     {
       "name": "scawy",
       "platform": "roblox",
-      "price": "offer"
+      "price": 50
     },
     {
       "name": "tombstone",
@@ -2168,7 +2168,7 @@
     {
       "name": "disproven",
       "platform": "discord",
-      "price": 50
+      "price": 150
     },
     {
       "name": "rephrased",
@@ -2201,6 +2201,11 @@
       "price": 125
     },
     {
+      "name": "sponsored",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "breakfast",
       "platform": "epicgames",
       "price": 150
@@ -2208,7 +2213,7 @@
     {
       "name": "offline",
       "platform": "epicgames",
-      "price": 150
+      "price": 350
     },
     {
       "name": "warned",
@@ -2941,4 +2946,5 @@
       "price": 50
     }
   ]
+
 }
