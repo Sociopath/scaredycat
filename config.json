@@ -2153,7 +2153,7 @@
     {
       "name": "kirishima",
       "platform": "instagram",
-      "price": 500
+      "price": 350
     },
     {
       "name": "waterbending",
@@ -2443,27 +2443,27 @@
     {
       "name": "v*ncouver",
       "platform": "github",
-      "price": 125
+      "price": 75
     },
     {
       "name": "f*tching",
       "platform": "github",
-      "price": 50
+      "price": 35
     },
     {
       "name": "g*ku",
       "platform": "github",
-      "price": 500
+      "price": 400
     },
     {
       "name": "omn*trix",
       "platform": "github",
-      "price": 75
+      "price": 50
     },
     {
       "name": "pr*fess",
       "platform": "github",
-      "price": 75
+      "price": 50
     },
     {
       "name": "s*reets",
@@ -2948,6 +2948,7 @@
   ]
 
 }
+
 
 
 
