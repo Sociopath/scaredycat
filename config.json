@@ -2166,34 +2166,14 @@
       "price": 150
     },
     {
-      "name": "rephrased",
-      "platform": "discord",
-      "price": 50
-    },
-    {
       "name": "goodluckcharlie",
       "platform": "discord",
       "price": 35
     },
     {
-      "name": "simulates",
-      "platform": "discord",
-      "price": 50
-    },
-    {
-      "name": "implicates",
-      "platform": "discord",
-      "price": 50
-    },
-    {
       "name": "recruiters",
       "platform": "discord",
       "price": 35
-    },
-    {
-      "name": "midgets",
-      "platform": "discord",
-      "price": 100
     },
     {
       "name": "v1a",
@@ -2943,6 +2923,7 @@
   ]
 
 }
+
 
 
 
