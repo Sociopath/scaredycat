@@ -6,11 +6,6 @@
       "price": 300
     },
     {
-      "name": "ongod",
-      "platform": "discord",
-      "price": 50
-    },
-    {
       "name": "remington",
       "platform": "ubisoft",
       "price": "offer"
@@ -2666,11 +2661,6 @@
       "price": 75
     },
     {
-      "name": "zillakami",
-      "platform": "epicgames",
-      "price": 75
-    },
-    {
       "name": "pave",
       "platform": "epicgames",
       "price": 125
@@ -2933,6 +2923,7 @@
   ]
 
 }
+
 
 
 
