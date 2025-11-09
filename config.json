@@ -2426,11 +2426,6 @@
       "price": 35
     },
     {
-      "name": "vincemasuka",
-      "platform": "telegram",
-      "price": 35
-    },
-    {
       "name": "sm*ck",
       "platform": "github",
       "price": 250
@@ -2948,5 +2943,6 @@
   ]
 
 }
+
 
 
