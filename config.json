@@ -2181,11 +2181,6 @@
       "price": 75
     },
     {
-      "name": "disproven",
-      "platform": "discord",
-      "price": 150
-    },
-    {
       "name": "goodluckcharlie",
       "platform": "discord",
       "price": 35
@@ -2928,6 +2923,7 @@
   ]
 
 }
+
 
 
 
