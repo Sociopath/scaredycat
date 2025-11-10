@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "quaaludes",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "notforradio",
       "platform": "minecraft",
       "price": "offer"
@@ -2923,6 +2928,7 @@
   ]
 
 }
+
 
 
 
