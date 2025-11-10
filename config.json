@@ -3,7 +3,7 @@
     {
       "name": "quaaludes",
       "platform": "telegram",
-      "price": "offer"
+      "price": 450
     },
     {
       "name": "notforradio",
@@ -2928,6 +2928,7 @@
   ]
 
 }
+
 
 
 
