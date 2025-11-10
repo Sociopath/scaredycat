@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "brainwash",
+      "platform": "epicgames",
+      "price": 50
+    },
+    {
       "name": "eternatus",
       "platform": "instagram",
       "price": 300
@@ -2913,6 +2918,7 @@
   ]
 
 }
+
 
 
 
