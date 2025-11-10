@@ -2711,11 +2711,6 @@
       "price": 25
     },
     {
-      "name": "flagship",
-      "platform": "epicgames",
-      "price": 25
-    },
-    {
       "name": "shaping",
       "platform": "epicgames",
       "price": 25
@@ -2923,6 +2918,7 @@
   ]
 
 }
+
 
 
 
