@@ -2786,11 +2786,6 @@
       "price": 250
     },
     {
-      "name": "mallets",
-      "platform": "epicgames",
-      "price": 15
-    },
-    {
       "name": "junkerqueen",
       "platform": "epicgames",
       "price": 25
@@ -2923,6 +2918,7 @@
   ]
 
 }
+
 
 
 
