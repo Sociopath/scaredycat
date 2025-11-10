@@ -1,6 +1,21 @@
 {
   "accounts": [
     {
+      "name": "giraffe",
+      "platform": "epicgames",
+      "price": 300
+    },
+    {
+      "name": "impidimp",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
+      "name": "jalapenos",
+      "platform": "epicgames",
+      "price": 35
+    },
+    {
       "name": "quaaludes",
       "platform": "telegram",
       "price": 450
@@ -2918,6 +2933,7 @@
   ]
 
 }
+
 
 
 
