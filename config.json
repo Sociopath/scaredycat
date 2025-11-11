@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "test",
+      "platform": "epicgames",
+      "price": "offer"
+    },
+    {
       "name": "ryangarcia",
       "platform": "minecraft",
       "price": 50
@@ -2936,22 +2941,4 @@
       "price": 50
     }
   ]
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
