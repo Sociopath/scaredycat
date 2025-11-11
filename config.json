@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "test2",
+      "platform": "minecraft",
+      "price": 123
+    },
+    {
       "name": "test",
       "platform": "epicgames",
       "price": "offer"
