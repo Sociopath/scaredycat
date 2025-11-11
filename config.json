@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "unclebao",
+      "platform": "telegram",
+      "price": "offer"
+    },
+    {
       "name": "ryangarcia",
       "platform": "minecraft",
       "price": 50
