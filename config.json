@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "ryangarcia",
+      "platform": "minecraft",
+      "price": 50
+    },
+    {
       "name": "giraffe",
       "platform": "epicgames",
       "price": 300
@@ -2933,6 +2938,7 @@
   ]
 
 }
+
 
 
 
