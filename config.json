@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "criminologist",
+      "platform": "discord",
+      "price": 50
+    },
+    {
       "name": "traffickers",
       "platform": "discord",
       "price": 35
