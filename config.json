@@ -1,11 +1,6 @@
 {
   "accounts": [
     {
-      "name": "poltergeist",
-      "platform": "telegram",
-      "price": 3500
-    },
-    {
       "name": "criminologist",
       "platform": "discord",
       "price": 50
