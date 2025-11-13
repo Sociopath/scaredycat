@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "test123",
+      "platform": "telegram",
+      "price": 300
+    },
+    {
       "name": "insinuated",
       "platform": "telegram",
       "price": 250
