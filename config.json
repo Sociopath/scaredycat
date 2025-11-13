@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "tarountula",
+      "platform": "telegram",
+      "price": 35
+    },
+    {
       "name": "criminologist",
       "platform": "discord",
       "price": 50
