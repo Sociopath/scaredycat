@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "mjolnir",
+      "platform": "telegram",
+      "price": 500
+    },
+    {
       "name": "fazbear",
       "platform": "telegram",
       "price": 500
