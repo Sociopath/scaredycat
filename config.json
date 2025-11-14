@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "giraffe",
+      "platform": "epicgames",
+      "price": 300
+    },
+    {
       "name": "burjkhalifa",
       "platform": "discord",
       "price": 35
