@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "varoom",
+      "platform": "discord",
+      "price": 50
+    },
+    {
       "name": "poltergeist",
       "platform": "telegram",
       "price": 3500
