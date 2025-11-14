@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "burjkhalifa",
+      "platform": "discord",
+      "price": 35
+    },
+    {
       "name": "showtime",
       "platform": "discord",
       "price": 100
