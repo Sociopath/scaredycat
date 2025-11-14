@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "hissy",
+      "platform": "discord",
+      "price": 150
+    },
+    {
       "name": "giraffe",
       "platform": "epicgames",
       "price": 300
