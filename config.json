@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "showtime",
+      "platform": "discord",
+      "price": 100
+    },
+    {
       "name": "varoom",
       "platform": "discord",
       "price": 50
