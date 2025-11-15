@@ -11,11 +11,6 @@
       "price": 35
     },
     {
-      "name": "showtime",
-      "platform": "discord",
-      "price": 100
-    },
-    {
       "name": "varoom",
       "platform": "discord",
       "price": 50
