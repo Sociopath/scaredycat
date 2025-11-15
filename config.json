@@ -116,11 +116,6 @@
       "price": 35
     },
     {
-      "name": "quaaludes",
-      "platform": "telegram",
-      "price": 400
-    },
-    {
       "name": "notforradio",
       "platform": "minecraft",
       "price": "offer"
