@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "photographing",
+      "platform": "discord",
+      "price": 75
+    },
+    {
       "name": "caterpie",
       "platform": "telegram",
       "price": 500
