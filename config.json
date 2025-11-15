@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "dem*lishing",
+      "platform": "github",
+      "price": 75
+    },
+    {
       "name": "giraffe",
       "platform": "epicgames",
       "price": 300
