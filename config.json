@@ -1,6 +1,11 @@
 {
   "accounts": [
     {
+      "name": "caterpie",
+      "platform": "telegram",
+      "price": 500
+    },
+    {
       "name": "dem*lishing",
       "platform": "github",
       "price": 50
